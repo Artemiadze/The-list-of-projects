@@ -1,0 +1,15 @@
+﻿  Tetris.cpp
+K:\Tetris\Tetris.cpp(66,42): warning C4305: +=: усечение из "double" в "float"
+K:\Tetris\Tetris.cpp(67,45): warning C4305: -=: усечение из "double" в "float"
+K:\Tetris\Tetris.cpp(70,9): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+K:\Tetris\Tetris.cpp(74,57): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+K:\Tetris\Tetris.cpp(74,19): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+K:\Tetris\Tetris.cpp(81,23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+K:\Tetris\Tetris.cpp(85,37): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+K:\Tetris\Tetris.cpp(88,26): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+K:\Tetris\Tetris.cpp(94,35): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+K:\Tetris\Tetris.cpp(97,24): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+K:\Tetris\Tetris.cpp(181,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+K:\Tetris\Tetris.cpp(181,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+K:\Tetris\Tetris.cpp(153,7): warning C4101: knopka: неиспользованная локальная переменная
+  Tetris.vcxproj -> K:\Tetris\x64\Debug\Tetris.exe
